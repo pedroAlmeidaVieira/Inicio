@@ -1,0 +1,8 @@
+C:\Users\xluiz\source\repos\Etec.Barbearia.CLASS\Etec.Barbearia.CLASS\bin\Debug\netstandard1.4\Etec.Barbearia.CLASS.deps.json
+C:\Users\xluiz\source\repos\Etec.Barbearia.CLASS\Etec.Barbearia.CLASS\bin\Debug\netstandard1.4\Etec.Barbearia.CLASS.dll
+C:\Users\xluiz\source\repos\Etec.Barbearia.CLASS\Etec.Barbearia.CLASS\bin\Debug\netstandard1.4\Etec.Barbearia.CLASS.pdb
+C:\Users\xluiz\source\repos\Etec.Barbearia.CLASS\Etec.Barbearia.CLASS\obj\Debug\netstandard1.4\Etec.Barbearia.CLASS.csprojResolveAssemblyReference.cache
+C:\Users\xluiz\source\repos\Etec.Barbearia.CLASS\Etec.Barbearia.CLASS\obj\Debug\netstandard1.4\Etec.Barbearia.CLASS.csproj.CoreCompileInputs.cache
+C:\Users\xluiz\source\repos\Etec.Barbearia.CLASS\Etec.Barbearia.CLASS\obj\Debug\netstandard1.4\Etec.Barbearia.CLASS.AssemblyInfo.cs
+C:\Users\xluiz\source\repos\Etec.Barbearia.CLASS\Etec.Barbearia.CLASS\obj\Debug\netstandard1.4\Etec.Barbearia.CLASS.dll
+C:\Users\xluiz\source\repos\Etec.Barbearia.CLASS\Etec.Barbearia.CLASS\obj\Debug\netstandard1.4\Etec.Barbearia.CLASS.pdb
